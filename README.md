@@ -47,6 +47,8 @@ predicted profitability values.
 ### 3. Datasets:
 Go to the following link to retrieve the modeling data sets, data dictionary and an example version of the submission:
 
+|Desc | URL  |
+|---- | ---- |
 | Training dataset | https://www.dropbox.com/s/omkuesx1mu29a4r/EY_DMA_Analytics_2016_Training_Data0822.csv?dl=0 |
 | Test dataset | https://www.dropbox.com/s/sdznzo4dgi3wcaz/EY_DMA_Analytics_2016_Testing_Data_0822.csv?dl=0 |
 | Data Dictionary | https://www.dropbox.com/s/8fpl1b24fs4yafn/EY_DMA_DataDictionary.xlsx?dl=0
