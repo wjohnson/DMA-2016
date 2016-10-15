@@ -47,10 +47,8 @@ predicted profitability values.
 ### 3. Datasets:
 Go to the following link to retrieve the modeling data sets, data dictionary and an example version of the submission:
 
-| Training dataset | https://www.dropbox.com/s/omkuesx1mu29a4r/EY_DMA_Analytics_2016_Training_Data0822.csv? 
-dl=0 |
-| Test dataset | https://www.dropbox.com/s/sdznzo4dgi3wcaz/EY_DMA_Analytics_2016_Testing_Data_0822.csv?
-dl=0 |
+| Training dataset | https://www.dropbox.com/s/omkuesx1mu29a4r/EY_DMA_Analytics_2016_Training_Data0822.csv?dl=0 |
+| Test dataset | https://www.dropbox.com/s/sdznzo4dgi3wcaz/EY_DMA_Analytics_2016_Testing_Data_0822.csv?dl=0 |
 | Data Dictionary | https://www.dropbox.com/s/8fpl1b24fs4yafn/EY_DMA_DataDictionary.xlsx?dl=0
 Example |
 
@@ -59,14 +57,18 @@ Example |
 What is the size of the dataset?
 * The training dataset has in total 768,168 rows and 44 columns.
 * The validation dataset has in total 84,910 rows and 42 columns.
+
 What do negative values mean for profitability?
 * The profitability $ amount takes negative value if the loans were charged off and positive value if it was paid in full OR was charged off after the payments made exceeded the principal amount.
+
 Are there any data quality issues in the dataset?
 * In case of any data quality issues please use your best judgment for treatment and interpretation of such values
+
 What does each column represent?
 * Refer to the data dictionary for description on all the variables
+
 What is inside the training dataset?
 * The training dataset has information on current loans on book, paid off loans and some charged off loans.
+
 Does the test data include only active loans?
 * The test dataset has information on paid off and charged off loans where the final profitability was realized
-
